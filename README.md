@@ -31,7 +31,7 @@ Search by keywords:
 
 ## Download APK
 
-[Download APK](https://github.com/emileyray/chuck_norris/blob/main/apk/app-release.apk)
+[Download APK](https://github.com/emileyray/chuck_norris/raw/main/apk/app-release.apk)
 
 
 
