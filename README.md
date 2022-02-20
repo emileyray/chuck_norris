@@ -29,5 +29,9 @@ Search by keywords:
 
 <img src="https://user-images.githubusercontent.com/69918609/154859696-739a6c96-2688-4133-9d95-3f223ce27242.png" width="200"> <img src="https://user-images.githubusercontent.com/69918609/154859684-a9096511-5af5-4a60-917e-57a9ea3d05b1.png" width="200"> 
 
+## Download APK
+
+[Download APK](https://github.com/emileyray/chuck_norris/blob/main/apk/app-release.apk)
+
 
 
