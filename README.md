@@ -23,11 +23,12 @@ Thats is what this application has been made for!
 
 Scroll through categories and get a list with his jokes:
 
-<img src="https://user-images.githubusercontent.com/69918609/154859595-9e4a0e97-cafb-45e9-bbcd-7b9a1c846ae3.png" width="200"> <img src="https://user-images.githubusercontent.com/69918609/154859637-0e279c03-1d60-474c-a9f0-a8433281d49a.png" width="200"> <img src="https://user-images.githubusercontent.com/69918609/154859655-deba649d-29dc-4e8c-9b33-3dbd22af7657.png" width="200">
+
+<img src="https://user-images.githubusercontent.com/69918609/154861412-4c0df9ab-8c60-4cc2-9007-ed7928356c9d.png" width="200"> <img src="https://user-images.githubusercontent.com/69918609/154861429-ec84ec6f-5c79-4acf-bc34-830ffb3855b0.png" width="200"> <img src="https://user-images.githubusercontent.com/69918609/154861442-f1640890-b425-4149-9a18-50c30f0be2f7.png" width="200">
 
 Search by keywords:
 
-<img src="https://user-images.githubusercontent.com/69918609/154859696-739a6c96-2688-4133-9d95-3f223ce27242.png" width="200"> <img src="https://user-images.githubusercontent.com/69918609/154859684-a9096511-5af5-4a60-917e-57a9ea3d05b1.png" width="200"> 
+<img src="https://user-images.githubusercontent.com/69918609/154861457-3cabc0e4-9a9d-452b-aa32-aa014b3ce028.png" width="200"> <img src="https://user-images.githubusercontent.com/69918609/154861477-83cf0030-f2ff-44b6-96e0-bb6a0800b871.png" width="200"> <img src="https://user-images.githubusercontent.com/69918609/154861508-e8dcaafb-0e78-4b39-9fb8-240d9e4d9497.png" width="200"> 
 
 ## Download APK
 
