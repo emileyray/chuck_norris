@@ -59,6 +59,7 @@ class _SearchFieldState extends State<SearchField> {
             IntrinsicHeight(
               child: TextField(
                 decoration: const InputDecoration(
+                    hintText: 'search jokes',
                     filled: true,
                     fillColor: Colors.white54,
                     enabledBorder: UnderlineInputBorder(
