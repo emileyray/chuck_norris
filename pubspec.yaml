@@ -40,6 +40,7 @@ dependencies:
   simple_animations: ^4.0.1
   flutter_keyboard_visibility: ^5.0.0-nullsafety.3
   url_launcher: ^6.0.20
+  dbstyleguidechecker: ^3.0.0
 
 
 dev_dependencies:

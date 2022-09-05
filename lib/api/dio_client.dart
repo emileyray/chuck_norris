@@ -8,7 +8,7 @@ class DioClient {
   Future<JokeModel?> getRandomJoke([String category = '']) async {
     var dio = Dio();
     Response response = await dio
-        .get('${url}random${category != '' ? '?category=${category}' : ''}');
+        .get('${url}random${category != '' ? '?category=$category' : ''}');
     if (response.statusCode == 200) {
       return JokeModel.fromJson(response.data);
     }
@@ -27,7 +27,7 @@ class DioClient {
   Future<SearchModel?> search(String query) async {
     var dio = Dio();
     try {
-      Response response = await dio.get('${url}search?query=${query}');
+      Response response = await dio.get('${url}search?query=$query');
       if (response.statusCode == 200) {
         return SearchModel.fromJson(response.data);
       } else {

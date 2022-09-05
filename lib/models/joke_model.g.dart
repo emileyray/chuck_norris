@@ -14,7 +14,7 @@ JokeModel _$JokeModelFromJson(Map<String, dynamic> json) => JokeModel(
     );
 
 Map<String, dynamic> _$JokeModelToJson(JokeModel instance) => <String, dynamic>{
-      'icon_url': instance.icon_url,
+      'icon_url': instance.iconUrl,
       'id': instance.id,
       'url': instance.url,
       'value': instance.value,
