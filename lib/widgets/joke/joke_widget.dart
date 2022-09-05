@@ -54,7 +54,7 @@ class _JokeWidgetState extends State<JokeWidget> {
                     IntrinsicHeight(
                       child: Padding(
                         padding: smallEdgeInstes,
-                        child: Image.network(model!.icon_url),
+                        child: Image.network(model!.iconUrl),
                       ),
                     ),
                     Expanded(
@@ -73,7 +73,8 @@ class _JokeWidgetState extends State<JokeWidget> {
                   ],
                 ),
                 Container(
-                  padding: EdgeInsets.only(bottom: 10, left: 10, right: 10),
+                  padding:
+                      const EdgeInsets.only(bottom: 10, left: 10, right: 10),
                   alignment: Alignment.centerRight,
                   child: RichText(
                       text: TextSpan(

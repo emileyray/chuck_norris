@@ -1,4 +1,3 @@
-import 'package:chuck_norris/api/dio_client.dart';
 import 'package:chuck_norris/categories/categories_bloc.dart';
 import 'package:chuck_norris/categories/categories_event.dart';
 import 'package:chuck_norris/categories/categories_state.dart';

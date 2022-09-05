@@ -4,7 +4,6 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 
 abstract class CarouselEvent extends Equatable {
   @override
-  // TODO: implement props
   List<Object?> get props => throw UnimplementedError();
 }
 
@@ -12,6 +11,7 @@ class OpenCarouselEvent extends CarouselEvent {}
 
 class CloseCarouselEvent extends CarouselEvent {}
 
+// ignore: must_be_immutable
 class PageChangedEvent extends CarouselEvent {
   String currentCategory;
   PageChangedEvent(this.currentCategory);
@@ -19,7 +19,6 @@ class PageChangedEvent extends CarouselEvent {
 
 abstract class CarouselState extends Equatable {
   @override
-  // TODO: implement props
   List<Object?> get props => throw UnimplementedError();
 }
 
